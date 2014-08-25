@@ -1,45 +1,16 @@
 ---
-0:
-  - message1 at 0
-  - message2 at 0
-  - message3 at 0
-10:
-  - message1 at 10
-  - message2 at 10
-  - message3 at 10
-20:
-  - message1 at 20
-  - message2 at 20
-  - message3 at 20
-30:
-  - message1 at 30
-  - message2 at 30
-  - message3 at 30
-40:
-  - message1 at 40
-  - message2 at 40
-  - message3 at 40
-50:
-  - message1 at 50
-  - message2 at 50
-  - message3 at 50
-60:
-  - message1 at 60
-  - message2 at 60
-  - message3 at 60
-70:
-  - message1 at 70
-  - message2 at 70
-  - message3 at 70
-80:
-  - message1 at 80
-  - message2 at 80
-  - message3 at 80
-90:
-  - message1 at 90
-  - message2 at 90
-  - message3 at 90
-100:
-  - message1 at 100
-  - message2 at 100
-  - message3 at 100
+- message1 at 0
+- message2 at 0
+- message3 at 0
+- message1 at 10
+- message2 at 10
+- message3 at 10
+- message1 at 20
+- message2 at 20
+- message3 at 20
+- message1 at 30
+- message2 at 30
+- message3 at 30
+- message1 at 40
+- message2 at 40
+- message3 at 40
