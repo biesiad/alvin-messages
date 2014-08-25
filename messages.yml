@@ -1,16 +1,6 @@
----
-- message1 at 0
-- message2 at 0
-- message3 at 0
-- message1 at 10
-- message2 at 10
-- message3 at 10
-- message1 at 20
-- message2 at 20
-- message3 at 20
-- message1 at 30
-- message2 at 30
-- message3 at 30
-- message1 at 40
-- message2 at 40
-- message3 at 40
+a: 
+  - aa
+  - aaa
+b:
+  - bb
+  - bbb
